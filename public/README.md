@@ -5,19 +5,18 @@ It is a real-time chat application to provide users' a hassle free chatting expe
 ## Screenshots
 
 1. Register:
-![image](Screenshots/Register.png)
+![image](public/Screenshots/Register.png)
 
 2. Login:
-![image](Screenshots\Login.png)
+![image](public/Screenshots/Login.png)
 
 3. SetAvatar:
-![image](Screenshots\Set%20avatar.png)
+![image](publicScreenshots/Set%20avatar.png)
 
 4. Welcome:
-![image](Screenshots\Welcome.png)
+![image](public/Screenshots/Welcome.png)
 
 5. Chat:
-![image](Screenshots\Chat.png)
+![image](public/Screenshots/Chat.png)
 
 
-Link: https://snapiify.netlify.app
